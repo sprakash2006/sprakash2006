@@ -1,4 +1,4 @@
-# <b>Hi I'm Prakash !</b>
+# Hi I'm Prakash !
 🌱  I'm Currently Learning to Code
 
 
