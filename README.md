@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">I'm a passionate web developer and data science enthusiast from India. <br> Always eager to learn and build impactful projects !</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprakash2006&label=Profile%20views&color=0e75b6&style=flat" alt="sprakash2006" /> </p>
+<br><br>
+<p align="left"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?username=sprakash2006&label=Profile%20views&color=0e75b6&style=flat" alt="sprakash2006" /> </p>
 
 - 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **prakashswami150569@gmail.com**
+- 📫 How to reach me **prakashswami150569@gmail.com** <br
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
