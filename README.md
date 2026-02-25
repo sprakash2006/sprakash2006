@@ -20,7 +20,7 @@
 <p>
 <a href="https://www.linkedin.com/in/prakash-swami/"><img src="https://img.shields.io/badge/-Prakash%20Swami%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:prakashswami.dev@gmail.com"><img src="https://img.shields.io/badge/-prakashswami.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/prakash.x45"><img src="https://img.shields.io/badge/-@prakash.x45_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/prakash_01"><img src="https://img.shields.io/badge/-@prakash_01_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
 
