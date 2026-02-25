@@ -28,8 +28,9 @@
 
 ### 🌐&nbsp;Tech Stack
 
-<div style="display:flex; flex-wrap:wrap; gap:16px;">
+<div class="tech-grid">
 
+  
   <div>
     <table>
       <tr><th>Programming Languages</th></tr>
@@ -43,7 +44,10 @@
     <table>
       <tr><th>Frontend</th><th>Backend</th></tr>
       <tr>
-        <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" /><img src="https://go-skill-icons.vercel.app/api/icons?i=gsap"></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=gsap">
+        </td>
         <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" /></td>
       </tr>
     </table>
@@ -51,39 +55,23 @@
 
   <div>
     <table>
-      <tr><th>Databases</th><th>BaaS / Cloud</th></tr>
+      <tr><th>Databases</th><th>App Developement</th></tr>
       <tr>
-        <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /></td>
-        <td><img src="https://skillicons.dev/icons?i=firebase,supabase,cloudflare" /></td>
+        <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" /></td>
+		<td><img src="https://skillicons.dev/icons?i=androidstudio,flutter,arduino,dart" /></td>
       </tr>
     </table>
   </div>
 
   <div>
     <table>
-      <tr><th>Data Science, AI & ML</th></tr>
+      <tr><th>Data Science, AI & ML</th><th>Blockchain Technology</th></tr>
       <tr>
-        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,"></td>
+        <td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib"></td>
+		<td><img src="https://skillicons.dev/icons?i=solidity" /></td>
       </tr>
     </table>
-  </div>
-
-  <div>
-    <table>
-      <tr><th>Platforms</th></tr>
-      <tr>
-        <td><img src="https://skillicons.dev/icons?i=androidstudio,flutter,arduino" /></td>
-      </tr>
-    </table>
-  </div>
-
-  <div>
-    <table>
-      <tr><th>Blockchain</th></tr>
-      <tr>
-        <td><img src="https://skillicons.dev/icons?i=solidity" /></td>
-      </tr>
-    </table>
+	  
   </div>
 
   <div>
@@ -96,7 +84,6 @@
   </div>
 
 </div>
-
 <br>
 
  | Repository Activity Trends |
