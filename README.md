@@ -68,7 +68,8 @@
       <tr><th>Data Science, AI & ML</th><th>Blockchain Technology</th></tr>
       <tr>
         <td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib"></td>
-		<td><img src="https://skillicons.dev/icons?i=solidity" /></td>
+		<td><img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" width="50" style="padding:5px; border-radius:10px;"/>
+			<img src="https://skillicons.dev/icons?i=solidity" /></td>
       </tr>
     </table>
 	  
