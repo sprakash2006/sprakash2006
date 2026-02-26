@@ -58,7 +58,7 @@
       <tr><th>Databases</th><th>App Developement</th></tr>
       <tr>
         <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" /></td>
-		<td><img src="https://skillicons.dev/icons?i=androidstudio,flutter,arduino,dart" /></td>
+		<td><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" /></td>
       </tr>
     </table>
   </div>
@@ -79,7 +79,7 @@
     <table>
       <tr><th>Dev Tools</th></tr>
       <tr>
-        <td><img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode,figma,anaconda" /></td>
+        <td><img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode,arduino,figma,anaconda" /></td>
       </tr>
     </table>
   </div>
