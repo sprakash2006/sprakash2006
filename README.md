@@ -53,15 +53,25 @@
     </table>
   </div>
 
-  <div>
-    <table>
-      <tr><th>Databases</th><th>App Developement</th></tr>
-      <tr>
-        <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" /></td>
-		<td><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" /></td>
-      </tr>
-    </table>
-  </div>
+<div>
+  <table>
+    <tr>
+      <th>Databases</th>
+      <th>App Development</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+      </td>
+      <td>
+        <div style="display: flex; align-items: center; gap: 20px;">
+          <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
   <div>
     <table>
