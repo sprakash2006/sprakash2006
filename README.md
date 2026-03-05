@@ -97,6 +97,9 @@
 </div>
 <br>
 
+<img src="https://github.com/sprakash2006/sprakash2006/blob/output/snake.svg" alt="Snake animation" />
+
+
  | Repository Activity Trends |
 | ----------- |
 |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sprakash2006&theme=github_dark)|
